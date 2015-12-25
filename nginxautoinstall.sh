@@ -40,8 +40,8 @@ NGINX_DEV_VERSION="1.9.2"
 
 # PageSpeed version
 # https://github.com/pagespeed/ngx_pagespeed/releases
-PAGESPEED_VERSION="1.9.32.4-beta"
-PAGESPEED_PSOL_VERSION="1.9.32.4"
+PAGESPEED_VERSION="1.9.32.10-beta"
+PAGESPEED_PSOL_VERSION="1.9.32.10"
 PAGESPEED_CACHE_DIR="/var/ngx_pagespeed_cache"
 
 # Functions
